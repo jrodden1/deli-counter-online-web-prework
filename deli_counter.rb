@@ -12,7 +12,7 @@ end# Write your code here.
 
 def take_a_number(lineArr, name)
   lineArr << name
-  puts "Welcome, #{lineArr.last}.  You are number #{lineArr.length} in line."
+  puts "Welcome, #{lineArr.last}. You are number #{lineArr.length} in line."
 end
 
 def now_serving(lineArr)
