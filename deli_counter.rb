@@ -1,5 +1,6 @@
 def line(lineArr)
   if lineArr.length == 0
+    puts "The line is currently empty."
     return "The line is currently empty."
   else
     full_line = "The line is currently:"
